@@ -1,4 +1,4 @@
-nested_emotions_dict = {
+emotions_dict = {
   
     "HighEnergy_pleasant": {
         "pleased": "feeling content and happy about a particular situation or person",

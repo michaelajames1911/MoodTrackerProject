@@ -2,7 +2,11 @@ import pandas as pd
 
 
 
+<<<<<<< HEAD
+def analyze_data(mood_data):
+=======
 def analyze_data(mood_data, emotions_dict):
+>>>>>>> origin/main
     """
     Analyzes mood trends over time, identifys the mood shifts and computs the mean mood values
     over a specified time interval.
